@@ -1,2 +1,3 @@
 .github/     @boost-sandbox/security
 production/  @boost-sandbox/security
+some-other-folder/ @boost-sandbox/security
